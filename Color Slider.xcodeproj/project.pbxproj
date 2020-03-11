@@ -13,6 +13,7 @@
 		9BFBC6B5241911FB001F691C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BFBC6B3241911FB001F691C /* Main.storyboard */; };
 		9BFBC6B7241911FD001F691C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BFBC6B6241911FD001F691C /* Assets.xcassets */; };
 		9BFBC6BA241911FD001F691C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BFBC6B8241911FD001F691C /* LaunchScreen.storyboard */; };
+		9BFBC6C22419133D001F691C /* SlidersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFBC6C12419133D001F691C /* SlidersViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9BFBC6B6241911FD001F691C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BFBC6B9241911FD001F691C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BFBC6BB241911FD001F691C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BFBC6C12419133D001F691C /* SlidersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidersViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9BFBC6B6241911FD001F691C /* Assets.xcassets */,
 				9BFBC6B8241911FD001F691C /* LaunchScreen.storyboard */,
 				9BFBC6BB241911FD001F691C /* Info.plist */,
+				9BFBC6C12419133D001F691C /* SlidersViewController.swift */,
 			);
 			path = "Color Slider";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9BFBC6B2241911FB001F691C /* ViewController.swift in Sources */,
 				9BFBC6AE241911FB001F691C /* AppDelegate.swift in Sources */,
 				9BFBC6B0241911FB001F691C /* SceneDelegate.swift in Sources */,
+				9BFBC6C22419133D001F691C /* SlidersViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
